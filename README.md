@@ -6,4 +6,4 @@ It’s meant to be used together with a separate [blueprint repository](https://
 
 In addition to the steps listed in the [README](https://github.com/jimthoburn/wordpress-blueprint/blob/main/README.md), you may want to copy the [wp-config-sample-render.php](https://github.com/jimthoburn/wordpress-content-example/blob/main/html/wp-config-sample-render.php) file to `wp-config.php` and update the [key section](https://github.com/jimthoburn/wordpress-content-example/blob/main/html/wp-config-sample-render.php#L64-L71).
 
-You may also want to update to the latest release of WordPress. This repository is currently up to date with [WordPress 6](https://github.com/WordPress/WordPress/tree/eeeaeb98bcb33f475573e8e7afa934b0b30ce215).
+You may also want to update to the latest release of WordPress and re-initialize Git (to remove the past commits from WordPress). This repository is currently up to date with [WordPress 6](https://github.com/WordPress/WordPress/tree/eeeaeb98bcb33f475573e8e7afa934b0b30ce215).
